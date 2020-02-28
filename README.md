@@ -4,7 +4,7 @@ Uma calculadora online
 
 # Live URL
 
-[Live](https://quasar.dev/quasar-cli/quasar-conf-js).
+[Live](https://online-calculator.now.sh/#/)
 
 ## Install the dependencies
 
